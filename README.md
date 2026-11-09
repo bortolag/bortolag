@@ -1,17 +1,18 @@
 # Hi, I'm Gianluca 👾
  
-**UI Programmer · Unreal Engine · Based in Italy 🇮🇹**
+**UI Programmer · Game Development · Based in Italy 🇮🇹**
  
-I'm an experienced game UI programmer, specialising in creating immersive and intuitive interfaces for AAA and indie projects alike. I started out as a generalist and found my home in UI — where gameplay, design, and code all come together.
+I'm an experienced UI programmer, specialising in creating immersive and intuitive interfaces for games. I started out as a generalist and found my home in UI — where gameplay, design, and code all come together.
  
 ---
  
 ### 🎮 Notable Work
  
+- **Medieval RPG** *(Unreal Engine 5)* — Strategy map UI, HUD, game encyclopedia, character creation, info panels, knowledge and information systems.
 - **Unannounced Multiplayer TPS** *(Unreal Engine 5)* — Core UI Framework and input management. Frontend, Settings, Lobby and End Game menus using Unreal's MVVM.
-- **Unannounced AAA Multiplayer FPS** *(Unreal Engine 5)* — Weapon & vehicle customization menus with Common UI using the Mutable plugin for dynamic content.
+- **Unannounced Multiplayer FPS** *(Unreal Engine 5)* — Weapon & vehicle customization menus with Common UI using the Mutable plugin for dynamic content.
 - **Suicide Squad: Kill the Justice League** *(Unreal Engine 4)* — RPG/UI team: achievements, loot generation, talent menu & skill tree, post-release and seasonal content menus.
-- **Unannounced AAA MMO** *(Unreal Engine 4)* — Social menus, game settings, loading screens, and input management with virtual mouse cursor.
+- **Unannounced MMO** *(Unreal Engine 4)* — Social menus, game settings, loading screens, and input management with virtual mouse cursor.
  
 ---
  
