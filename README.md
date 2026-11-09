@@ -2,7 +2,7 @@
  
 **UI Programmer · Game Development · Based in Italy 🇮🇹**
  
-I'm an experienced UI programmer, specialising in creating immersive and intuitive interfaces for games. I started out as a generalist and found my home in UI — where gameplay, design, and code all come together.
+I'm an experienced UI programmer, specialising in creating immersive and intuitive interfaces for games. I started out as a generalist and found my home in UI - where gameplay, design, and code all come together.
  
 ---
  
